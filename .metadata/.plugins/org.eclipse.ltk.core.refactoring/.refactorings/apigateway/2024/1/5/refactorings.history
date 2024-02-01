@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;exchange2&apos; from expression &apos;exchange&apos;&#x0D;&#x0A;- Original project: &apos;apigateway&apos;&#x0D;&#x0A;- Variable name: &apos;exchange2&apos;&#x0D;&#x0A;- Destination method: &apos;com.example.demo.MyPreFilter.filter(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;exchange&apos;" description="Extract local variable &apos;exchange2&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo{MyPreFilter.java" name="exchange2" replace="false" replaceAllInThisFile="false" selection="696 8" stamp="1706725068534" varType="false" version="1.0"/>
+</session>

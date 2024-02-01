@@ -1,0 +1,3 @@
+boot-java.console.enabled=false
+cloudfoundry.console.enabled=false
+eclipse.preferences.version=1
